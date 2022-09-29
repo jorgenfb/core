@@ -1,0 +1,13 @@
+{
+  "domain": "flexit_local",
+  "name": "Flexit local",
+  "config_flow": false,
+  "documentation": "https://www.home-assistant.io/integrations/flexit_local",
+  "requirements": ["BAC0==22.9.21"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@jorgenfb"],
+  "iot_class": "local_polling"
+}

@@ -10,6 +10,9 @@ AIOAladdinConnect==0.1.46
 # homeassistant.components.adax
 Adax-local==0.1.4
 
+# homeassistant.components.flexit_local
+BAC0==22.9.21
+
 # homeassistant.components.homekit
 HAP-python==4.5.0
 
